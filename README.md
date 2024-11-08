@@ -27,15 +27,3 @@ Here are some ideas to get you started:
 
 
 
-
-[![typograssy](https://typograssy.deno.dev/api?text=GLORY%20GLORY%20TOTTENHAM%20HOTSPUR%20)](https://github.com/kawarimidoll/typograssy)
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=koht20)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koht20)](https://github.com/anuraghazra/github-readme-stats)
-
-clion,cmake,arduino,discord,obsidian,notion,opencv,raspberrypi,react,ros,rust,ubuntu,vite,vscode,
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=koht20" alt="GitHub Trophy">
-</a>
