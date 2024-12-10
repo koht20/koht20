@@ -26,5 +26,5 @@ Here are some ideas to get you started:
 [![Programming Languages](https://skillicons.dev/icons?i=discord,notion,obsidian,unity,ubuntu,vscode)](https://skillicons.dev)
 
 
-![typograssy](https://typograssy.deno.dev/api?text=GLORY%20GLORY%20TOTTENHAM%20HOTSPUR%20)](https://github.com/kawarimidoll/typograssy)
+[![typograssy](https://typograssy.deno.dev/api?text=GLORY%20GLORY%20TOTTENHAM%20HOTSPUR%20)](https://github.com/kawarimidoll/typograssy)
 
